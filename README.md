@@ -75,21 +75,9 @@ My methodology, lessons learned, and notes from hands-on labs and CTF challenges
 
 ---
 ## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarxanov&show_icons=true&locale=en" alt="sarxanov" />
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarxanov&show_icons=true&locale=en&layout=compact" alt="sarxanov" />
-</p>
-
-<br clear="both">
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sarxanov" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sarxanov&theme=tokyonight&hide_border=true" width="70%" />
 </p>
-
 ---
 
 ## 📫 Contact
