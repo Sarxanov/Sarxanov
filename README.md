@@ -74,18 +74,22 @@ Small projects and scripts created while improving my Python skills.
 My methodology, lessons learned, and notes from hands-on labs and CTF challenges.
 
 ---
-
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarxanov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarxanov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarxanov&show_icons=true&locale=en" alt="sarxanov" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarxanov&theme=tokyonight&hide_border=true" width="70%" />
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarxanov&show_icons=true&locale=en&layout=compact" alt="sarxanov" />
 </p>
+
+<br clear="both">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=sarxanov" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 📫 Contact
